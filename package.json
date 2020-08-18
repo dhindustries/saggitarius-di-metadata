@@ -1,0 +1,16 @@
+{
+  "name": "@saggitarius/di-metadata",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@saggitarius/typing": "git://github.com/dhindustries/saggitarius-typing.git",
+    "@saggitarius/di": "git://github.com/dhindustries/saggitarius-di.git",
+    "@saggitarius/metadata": "git://github.com/dhindustries/saggitarius-metadata.git",
+    "@saggitarius/module-loader": "git://github.com/dhindustries/saggitarius-module-loader.git"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.6"
+  }
+}
